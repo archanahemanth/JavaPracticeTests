@@ -1,1 +1,1 @@
-# JavaPracticeTests
+# PracticeTests
